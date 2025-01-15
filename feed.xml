@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>📢 ̖́- 𝘽𝘼𝙉𝙏𝙕</title>
+    <link href="https://gogeta-ssj4.github.io/feed.xml" rel="self" />
+    <link href="https://gogeta-ssj4.github.io" />
+    <updated>2025-01-14T17:36:30-07:00</updated>
+    <author>
+        <name>Bantz</name>
+    </author>
+    <id>https://gogeta-ssj4.github.io</id>
+
+    <entry>
+        <title>EVIL 1ST POST &gt;:)</title>
+        <author>
+            <name>Tabú Bantz</name>
+        </author>
+        <link href="https://gogeta-ssj4.github.io/blog/evil-1st-post-greater/"/>
+        <id>https://gogeta-ssj4.github.io/blog/evil-1st-post-greater/</id>
+        <media:content url="https://gogeta-ssj4.github.io/media/posts/3/masc4masc.jpg" medium="image" />
+            <category term="Tabú Bantz"/>
+
+        <updated>2025-01-14T17:36:30-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gogeta-ssj4.github.io/media/posts/3/masc4masc.jpg" alt="" />
+                    EVEN GAYER SEX!!!!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gogeta-ssj4.github.io/media/posts/3/masc4masc.jpg" class="type:primaryImage" alt="" /></p>
+                <h1 class="align-center">EVEN GAYER SEX!!!!</h1>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://gogeta-ssj4.github.io/media/posts/3/Astolfo-n-Gogeta.jpg" alt="" width="813" height="1000"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My first post!!</title>
+        <author>
+            <name>Bantz</name>
+        </author>
+        <link href="https://gogeta-ssj4.github.io/blog/my-first-post/"/>
+        <id>https://gogeta-ssj4.github.io/blog/my-first-post/</id>
+        <media:content url="https://gogeta-ssj4.github.io/media/posts/2/Yamato1.jpg" medium="image" />
+            <category term="XLBantz"/>
+
+        <updated>2025-01-14T17:29:08-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gogeta-ssj4.github.io/media/posts/2/Yamato1.jpg" alt="" />
+                    GAY SEX!!!!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gogeta-ssj4.github.io/media/posts/2/Yamato1.jpg" class="type:primaryImage" alt="" /></p>
+                <h1 class="align-center"><em><strong>GAY SEX!!!!</strong></em></h1>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://gogeta-ssj4.github.io/media/posts/2/Gogeta.png" alt="" width="554" height="600"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
