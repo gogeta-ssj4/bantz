@@ -14,7 +14,7 @@
             "url": "https://gogeta-ssj4.github.io/bantz/blog/evil-1st-post-greater/",
             "title": "EVIL 1ST POST &gt;:)",
             "summary": "EVEN GAYER SEX!!!!",
-            "content_html": "<h1 class=\"align-center\">EVEN GAYER SEX!!!!</h1>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://gogeta-ssj4.github.io/bantz/media/posts/3/Astolfo-n-Gogeta.jpg\" alt=\"\" width=\"813\" height=\"1000\"></figure>",
+            "content_html": "<h1 class=\"align-center\">EVEN GAYER SEX!!!!</h1>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://gogeta-ssj4.github.io/bantz/media/posts/3/Astolfo-n-Gogeta.jpg\" alt=\"\" width=\"813\" height=\"1000\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://gogeta-ssj4.github.io/bantz/media/posts/3/responsive/Astolfo-n-Gogeta-xs.jpg 300w ,https://gogeta-ssj4.github.io/bantz/media/posts/3/responsive/Astolfo-n-Gogeta-sm.jpg 480w ,https://gogeta-ssj4.github.io/bantz/media/posts/3/responsive/Astolfo-n-Gogeta-md.jpg 768w ,https://gogeta-ssj4.github.io/bantz/media/posts/3/responsive/Astolfo-n-Gogeta-lg.jpg 1024w\"></figure>",
             "image": "https://gogeta-ssj4.github.io/bantz/media/posts/3/masc4masc.jpg",
             "author": {
                 "name": "Tabú Bantz"
@@ -30,7 +30,7 @@
             "url": "https://gogeta-ssj4.github.io/bantz/blog/my-first-post/",
             "title": "My first post!!",
             "summary": "GAY SEX!!!!",
-            "content_html": "<h1 class=\"align-center\"><em><strong>GAY SEX!!!!</strong></em></h1>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://gogeta-ssj4.github.io/bantz/media/posts/2/Gogeta.png\" alt=\"\" width=\"554\" height=\"600\"></figure>",
+            "content_html": "<h1 class=\"align-center\"><em><strong>GAY SEX!!!!</strong></em></h1>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://gogeta-ssj4.github.io/bantz/media/posts/2/Gogeta.png\" alt=\"\" width=\"554\" height=\"600\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://gogeta-ssj4.github.io/bantz/media/posts/2/responsive/Gogeta-xs.png 300w ,https://gogeta-ssj4.github.io/bantz/media/posts/2/responsive/Gogeta-sm.png 480w ,https://gogeta-ssj4.github.io/bantz/media/posts/2/responsive/Gogeta-md.png 768w ,https://gogeta-ssj4.github.io/bantz/media/posts/2/responsive/Gogeta-lg.png 1024w\"></figure>",
             "image": "https://gogeta-ssj4.github.io/bantz/media/posts/2/Yamato1.jpg",
             "author": {
                 "name": "Bantz"
